@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+
+
+.characters p {
+  max-width: none;
+  font-weight: bold;
+  margin: 0;
+}
+.characters li{
+  list-style-type: none;
+  border: 1px solid red;
+  padding: 5px;
+  margin: 5px;
+}
+
+.characters {
+  list-style-type: none;
+  display: flex;
+  background-color: aqua;
+  margin: auto;
+}
+
+
+
+
+
+
+
+
